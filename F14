@@ -1,0 +1,217 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="author" content="Department of Computer Science and Engineering, HKUST" />
+<!--meta name="description" content="Qualifying Exams, Proposal Defenses &amp; Thesis Defenses (Fall 2014)" /-->
+<!--meta name="keywords" content="CS, Computer Science, Engineering, Qualifying Exams, Proposal Defenses &amp; Thesis Defenses (Fall 2014)" /-->
+<title>Qualifying Exams, Proposal Defenses &amp; Thesis Defenses (Fall 2014)</title>
+<!--link rel="stylesheet" type="text/css" href="/styles/afix.css" /-->
+<link rel="stylesheet" type="text/css" media="print" href="/styles/print.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/styles/uni-form.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/styles/style.css?=t1376472329" />
+<link rel="stylesheet" type="text/css" media="screen,print" href="/styles/common.css" />
+
+<script type="text/javascript" src="/scripts/script.js"></script>
+<script type="text/javascript" src="/scripts/onload.js"></script>
+<!--script type="text/javascript"
+ src="http://www.google.com/jsapi?key=ABQIAAAAUwxONOjoqxfqILPmb_MysRT0ougVue-A3_PYUorwdnfouPjdbhRue6yfeG-MloO9SeqxJ62GNBTNDQ"></script-->
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">
+//<![CDATA[
+  //google.load("chrome-frame", "1.0.2");
+  //google.load("dojo", "1.6.1");
+  //google.load("ext-core", "3.1.0");
+  google.load("jquery", "1");
+  //google.load("jquery", "1.6.4");
+  google.load("jqueryui", "1.8.16");
+  //google.load("mootools", "1.4.1");
+  //google.load("prototype", "1.7.0.0");
+  //google.load("scriptaculous", "1.9.0");
+  //google.load("swfobject", "2.2");
+  //google.load("yui", "3.3.0");
+  //google.load("webfont", "1.0.22");
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+ $(function() {
+  var navItems = $("#topNav > li > a");
+  navItems.bind("mouseover", function() {
+   navItems.parent().removeClass("active");
+   $(this).parent().addClass("active");
+  });
+ });
+//]]>
+</script>
+<!-- Put the following javascript before the closing </head> tag. -->
+<script type="text/javascript">
+//<![CDATA[
+  (function() {                  
+    var cx = '000421234834546955152:ml8c4wlfyd8';
+    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+  })();
+//]]>
+</script>
+</head>
+<body>
+<div id="header">
+<a href="/"><img src="/images/deptLogo.png" alt="CSE Logo" /></a>
+<span class="mlang"><a xml:lang="zh-hk" lang="zh-hk" href="?lang=hk">中文繁體</a> |
+<a xml:lang="zh-cn" lang="zh-cn" href="?lang=cn">中文简体</a></span>
+
+<a href="http://www.ust.hk/"><img id="uniLogo" src="/images/uniLogo.png" alt="HKUST Logo" /></a>
+<a href="http://www.seng.ust.hk/"><img id="schoolLogo" src="/images/sengLogo.png" alt="SENG Logo" /></a>
+ <div id="search">
+<!-- Place this tag where you want both of the search box and the search results to render -->
+<!--
+<gcse:searchbox-only id="gcse-searchBox" resultsUrl="/admin/search/" enableHistory="true"></gcse:searchbox-only>
+-->
+<gcse:searchbox-only id="gcse-searchBox" resultsUrl="/admin/search/"></gcse:searchbox-only>
+ </div><!-- End search-->
+</div><!-- End header -->
+
+<!--
+<p id="headsearch">
+<a class="button" href="/admin/recruitment/head/">Search for Head of Computer Science &amp; Engineering</a>
+</p>
+-->
+
+<div id="navBar">
+<ul id="topNav">
+<li class="x1"><a accesskey="A" title="About Us" href="/admin/sitemap/?map=About">About</a>
+<ul>
+<li class="x2"><a title="Welcome Message" href="/admin/welcome/">Welcome</a></li>
+<li class="x2"><a href="/admin/about/">About Us</a></li>
+<li class="x2"><a href="/admin/factsheet/">Fact Sheet</a></li>
+<li class="x2"><a href="/News/?type=news|achievement">News &amp; Achievements</a></li>
+<li class="x2"><a href="/News/?type=event">Events</a></li>
+<li class="x2"><a href="/admin/QA/">Quality Assurance</a></li>
+<li class="x2"><a title="Safety Management" href="http://cssystem.cse.ust.hk/UGuides/csd_manage.html">Safety</a></li>
+<li class="x2"><a href="/admin/contact/">Contact Us</a></li>
+<!--</a></li>
+-->
+</ul>
+</li>
+<li class="x1"><a accesskey="P" title="People" href="/admin/sitemap/?map=People">People</a>
+<ul>
+<li class="x2"><a href="/admin/people/faculty/">Faculty</a></li>
+<li class="x2"><a href="/admin/people/staff/">Staff</a></li>
+<li class="x2"><a title="Communication Tutors" href="/ct/">Communication Tutors</a></li>
+<li class="x2"><a href="/admin/people/pg/">Postgraduate Students</a></li>
+<li class="x2"><a href="/admin/recruitment/">Recruitment</a></li>
+</ul>
+</li>
+<li class="x1"><a accesskey="U" title="Undergraduate Programs" href="/admin/sitemap/?map=Undergraduate">Undergraduate</a>
+<ul>
+<li class="x2"><a href="/ug/admissions/comp/4yr/">Program Information (4-Year)</a></li>
+<li class="x2"><a href="/ug/admissions/comp/">3-Year UG Programs</a></li>
+<li class="x2"><a href="/ug/hkust_only/4yr/" rel="nofollow">4-Year UG Intranet</a></li>
+<li class="x2"><a href="/ug/hkust_only/" rel="nofollow">3-Year UG Intranet</a></li>
+</ul>
+</li>
+<li class="x1"><a accesskey="P" title="Postgraduate Programs" href="/admin/sitemap/?map=Postgraduate">Postgraduate</a>
+<ul>
+<li class="x2"><a href="/pg/">PG Programs</a></li>
+<li class="x2"><a href="/pg/hkust_only/" rel="nofollow">PG Intranet</a></li>
+<!---->
+<li class="x2"><a href="/pg/admissions/recruiting/">CSE PG Recruiting</a></li>
+<!---->
+<li class="x2"><a href="http://pg.ust.hk/admissions">PG Admissions</a></li>
+<li class="x2"><a href="/pg/ourgraduates/">Student Destinations</a></li>
+</ul>
+</li>
+<li class="x1"><a accesskey="R" title="Research Groups &amp; Areas" href="/pg/research/">Research</a></li>
+<li class="x1"><a accesskey="C" title="Career Corner" href="/admin/sitemap/?map=Career">Career</a>
+<ul>
+<li class="x2"><a href="/ug/career/opportunities/">Career Opportunities for CS Majors</a></li>
+<li class="x2"><a href="/ug/internship/">Internship Opportunities</a></li>
+<!---->
+<li class="x2"><a href="/ug/internship/forEmployer/">Info for Employers</a></li>
+<li class="x2"><a href="/ug/internship/links/">Useful Links</a></li>
+</ul>
+</li>
+<li class="x1"><a accesskey="F" title="Computing Facilities" href="/admin/facilities/">Facilities</a>
+<ul>
+<li class="x2"><a href="/admin/facilities/committee/" rel="nofollow">Facility Committee &amp; Policies</a></li>
+<li class="x2"><a href="/admin/lab/">Lab Schedules</a></li>
+<li class="x2"><a href="http://cssystem.cse.ust.hk/UGuides/index.html">User Guides</a></li>
+<li class="x2"><a href="http://cssystem.cse.ust.hk/">CS System</a></li>
+</ul>
+</li>
+<li class="x1"><a accesskey="L" title="Links" href="/admin/sitemap/?map=Links">Links</a>
+<ul>
+<li class="x2"><a title="CSE Webmail" href="https://imail.cse.ust.hk/sqmail/">WebMail</a></li>
+<li class="x2"><a href="/Restricted/" rel="nofollow">Faculty Intranet</a></li>
+<li class="x2"><a title="UST MyPortal" href="http://my.ust.hk">MyPortal</a></li>
+<li class="x2"><a title="HKUST Programming Team" href="/acm/">Programming Team</a></li>
+<li class="x2"><a title="CSE Students' Society" href="http://ihome.ust.hk/~su_csess/">Students' Society</a></li>
+<!---->
+<li class="x2"><a title="CS Alumni Association" href="https://www.facebook.com/cseaa.hkust">Alumni Association</a></li>
+<li class="x2"><a href="/admin/sitemap/">Site Map</a></li>
+</ul>
+</li>
+</ul>
+</div><!-- End navbar -->
+<div id="maincontent">
+<!--
+<span class="mlang"><a xml:lang="zh-hk" lang="zh-hk" href="?lang=hk">中文繁體</a> |
+<a xml:lang="zh-cn" lang="zh-cn" href="?lang=cn">中文简体</a></span>
+-->
+<h1>Qualifying Exams, Proposal Defenses &amp; Thesis Defenses (Fall
+2014)</h1>
+
+<h2>Fall 2014</h2>
+
+<table class="fancy ruler" cellpadding="3" cellspacing="0">
+  <thead>
+    <tr>
+      <th width="15%">Date</th>
+      <th width="15%">Candidate</th>
+      <th width="50%">Title</th>
+      <th width="20%">Announcement</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="vertical-align: top;">29 October 2014<br></td><td style="vertical-align: top;">Mr. Yueqi LI<br></td><td style="vertical-align: top;">Scalable Symbolic Analysis of Large Real World Programs Using API Abstraction and Execution Histories<br></td><td style="vertical-align: top;"><a href="/pg/defenses/F14/yueqili-29-10-2014.html">PhD Thesis Proposal
+      Defence</a></td></tr><tr><td style="vertical-align: top;">28 October 2014<br></td><td style="vertical-align: top;">Mr. Longfei SHANGGUAN<br></td><td style="vertical-align: top;">Towards Practical Crowdsourcing: Issues&nbsp;and State-of-the-arts<br></td><td style="vertical-align: top;"><a href="/pg/defenses/F14/lshangguan-28-10-2014.html">PhD Qualifying Examination</a></td></tr><tr><td style="vertical-align: top;">27 October 2014<br></td><td style="vertical-align: top;">Mr. Ye HUANG<br></td><td style="vertical-align: top;">A Device-to-Device Task Offloading System for Mobile Device Cloud Computing<br></td><td style="vertical-align: top;"><a href="/pg/defenses/F14/yhuangaq-27-10-2014.html">MPhil Thesis
+      Defence</a></td></tr><tr><td style="vertical-align: top;">20 October 2014<br></td><td style="vertical-align: top;">Mr. Shengkai ZHANG<br></td><td style="vertical-align: top;">On the utility of concave nodes in geometric processing of large-scale sensor networks<br></td><td style="vertical-align: top;"><a href="/pg/defenses/F14/szhangaj-20-10-2014.html">MPhil Thesis
+      Defence</a></td></tr><tr><td style="vertical-align: top;">15 October 2014<br></td><td style="vertical-align: top;">Mr. Yixian ZHENG<br></td><td style="vertical-align: top;">A SURVEY ON VISUAL ANALYSIS OF&nbsp;MULTIVARIATE DATA<br></td><td style="vertical-align: top;"><a href="/pg/defenses/F14/yzhengaj-15-10-2014.html">PhD Qualifying Examination</a></td></tr><tr><td style="vertical-align: top;">15 October 2014<br></td><td style="vertical-align: top;">Mr. Wenchao WU<br></td><td style="vertical-align: top;">What Role Visualization Can Play in Urban Computing: A Survey on Urban Visual Analytics<br></td><td style="vertical-align: top;"><a href="/pg/defenses/F14/wwuag-15-10-2014.html">PhD Qualifying Examination</a></td></tr><tr><td style="vertical-align: top;">15 October 2014<br></td><td style="vertical-align: top;">Miss Yun WANG<br></td><td style="vertical-align: top;">A SURVEY ON NARRATIVE VISUALIZATION<br></td><td style="vertical-align: top;"><a href="/pg/defenses/F14/ywangch-15-10-2014.html">PhD Qualifying Examination<br></a></td></tr><tr><td style="vertical-align: top;">7 October 2014<br></td><td style="vertical-align: top;">Mr. Jan VOSECKY<br></td><td style="vertical-align: top;">Improving Information Retrieval in Social Streams<br></td><td style="vertical-align: top;"><a href="/pg/defenses/F14/jvosecky-07-10-2014.html">PhD Thesis Proposal
+      Defence</a></td></tr><tr><td style="vertical-align: top;">3 October 2014<br></td><td style="vertical-align: top;">Miss Juyoung YON<br></td><td style="vertical-align: top;">Geometric Matching Problems<br></td><td style="vertical-align: top;"><a href="/pg/defenses/F14/jyon-03-10-2014.html">PhD Thesis Proposal
+      Defence</a></td></tr><tr><td style="vertical-align: top;">23 September 2014<br></td><td style="vertical-align: top;">Miss Jing LIAO<br></td><td style="vertical-align: top;">EFFICIENT SEMI-AUTOMATIC TECHNIQUES FOR IMAGE AND VIDEO MORPHING<br></td><td style="vertical-align: top;"><a href="/pg/defenses/F14/jliaoaa-23-09-2014.html">PhD Thesis Proposal
+      Defence</a></td></tr><tr>
+      <td>19 September 2014</td>
+      <td>Mr. Pengfei XU</td>
+      <td>Interaction Techniques for Layout Editing of Graphic Elements</td>
+      <td><a href="/pg/defenses/F14/xupengfei-19-09-2014.html">PhD Thesis Proposal
+      Defence</a></td>
+    </tr>
+  </tbody><tbody>
+</tbody></table>
+
+<p>Maintained by Isaac Ma. Please report errors to <script type="text/javascript"><!--
+  mmsend('csisaac'); //--></script>.</p>
+
+<p><a href="/pg/defenses/pastthesisdef.html">Thesis Defense Archive</a></p>
+</div><!-- End maincontent -->
+
+<div id="footer">
+ <p>Last updated on 2014-10-16<br />
+ Department of Computer Science and Engineering, HKUST. All rights reserved.</p>
+</div>
+
+<!-- google analytics start -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2771148-1";
+urchinTracker();
+</script>
+<!-- google analytics end -->
+</body>
+</html>
+<!--div class="right">Time elapsed: 0.024991989135742</div-->

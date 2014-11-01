@@ -12,3 +12,16 @@ class CseseminarItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass
+
+from scrapy.item import Item, Field
+class SemesterItem(Item):
+	semester = Field()
+	link = Field()
+
+class SeminarItem(Item):
+	date = Field()
+	candidate = Field()
+	title = Field()
+	announcement = Field()
+
+	
